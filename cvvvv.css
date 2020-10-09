@@ -85,13 +85,13 @@ footer {
 }
 
 @media screen and (min-width: 1200px) {
-.texte {
-  margin-left: 100px;
-}
-
-.img {
-  margin-right: 100px;
-}
-}
+  .texte {
+    margin-left: 100px;
+  }
+  
+  .img {
+    margin-right: 100px;
+  }
+  }
 
 
